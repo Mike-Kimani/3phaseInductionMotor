@@ -1,2 +1,2 @@
 # 3phaseInductionMotor
-Dsign
+Design
